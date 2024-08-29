@@ -1,8 +1,8 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
+name: Add new README
+about: Add a new README to the specified directory
+title: 'Add a new README'
+labels: 'Documentation'
 assignees: ''
 
 ---
