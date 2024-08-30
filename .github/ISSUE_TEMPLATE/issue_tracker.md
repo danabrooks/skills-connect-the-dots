@@ -1,3 +1,20 @@
+---
+name: Issue Tracker
+about: Test Issue Tracker
+title: 'Issue tracker'
+labels: 'Documentation'
+assignees: ''
+body:
+- type: markdown
+  attributes:
+    value: "## Welcome!"
+- type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord.
+
+---
+
 Issue tracker is **ONLY** used for reporting bugs. New features should be discussed on our slack channel. Please use [stackoverflow](https://stackoverflow.com) for supporting issues.
 
 <!--- Provide a general summary of the issue in the Title above -->
